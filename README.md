@@ -20,7 +20,7 @@ In this project we have used traditional machine learning algorithms like SVM an
 
 ## Web Application
 
-After the training the model on dataset we have build web application with help of flask framework as backend and HTML CSS for the frontend. In this application user can upload there image of affect skin then in result it shows weather you are suffering from skin cancer disesas or not or you have to consult your dcotor or not
+After the training the model on dataset we have build web application with help of flask framework as backend and HTML CSS for the frontend. In this application user can upload there image of affect skin then in result it shows whether you are suffering from skin cancer disesas or not or you have to consult your dcotor or not
 
 ![Screenshot (241)](https://user-images.githubusercontent.com/72223953/199036220-f248936c-627f-40f8-a4b4-98035b1fdc7a.png)
 ![Screenshot (244)](https://user-images.githubusercontent.com/72223953/199036999-fd55e8e7-1097-4716-b343-37dc756636ef.png)
